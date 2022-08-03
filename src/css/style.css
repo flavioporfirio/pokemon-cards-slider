@@ -12,7 +12,7 @@
 body {
   font-family: "Outfit", sans-serif;
 
-  background-image: url("/src/img/fundo-site.png");
+  background-image: url(../img/fundo-site.png);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -104,18 +104,18 @@ ul {
 }
 
 .fundo-1 {
-  background-image: url("/src/img/fundo-card-1.jpg");
+  background-image: url(../img/fundo-card-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .fundo-2 {
-  background-image: url("/src/img/fundo-card-2.jpg");
+  background-image: url(../img/fundo-card-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .fundo-3 {
-  background-image: url("/src/img/fundo-card-3.jpg");
+  background-image: url(../img/fundo-card-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
